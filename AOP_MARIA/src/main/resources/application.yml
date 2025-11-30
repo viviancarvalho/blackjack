@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: INFO
+    AUDIT: INFO
+    aop: INFO
+  pattern:
+    console: "%d{yyyy-MM-dd'T'HH:mm:ss.SSSXXX} level=%-5p logger=%c cid=%X{correlationId} msg=%m%n"

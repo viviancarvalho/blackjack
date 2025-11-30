@@ -1,0 +1,7 @@
+com\cardservice\model\Card.class
+com\cardservice\model\NumberCard.class
+com\cardservice\patterns\factory\CardFactory.class
+com\cardservice\CardServiceApplication.class
+com\cardservice\controller\CardController.class
+com\cardservice\model\FaceCard.class
+com\cardservice\service\DeckService.class

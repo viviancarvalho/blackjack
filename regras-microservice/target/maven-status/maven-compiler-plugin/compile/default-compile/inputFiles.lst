@@ -1,0 +1,11 @@
+C:\Users\Cpu\Downloads\BlackjackFinalProject (4)\BlackjackFinalProject\regras-microservice\src\main\java\com\cardservice\model\Card.java
+C:\Users\Cpu\Downloads\BlackjackFinalProject (4)\BlackjackFinalProject\regras-microservice\src\main\java\com\demo\regra\controller\RegrasController.java
+C:\Users\Cpu\Downloads\BlackjackFinalProject (4)\BlackjackFinalProject\regras-microservice\src\main\java\com\demo\regra\patterns\adapter\CardServiceAdapter.java
+C:\Users\Cpu\Downloads\BlackjackFinalProject (4)\BlackjackFinalProject\regras-microservice\src\main\java\com\demo\regra\patterns\adapter\HouseServiceAdapter.java
+C:\Users\Cpu\Downloads\BlackjackFinalProject (4)\BlackjackFinalProject\regras-microservice\src\main\java\com\demo\regra\patterns\adapter\PlayerServiceAdapter.java
+C:\Users\Cpu\Downloads\BlackjackFinalProject (4)\BlackjackFinalProject\regras-microservice\src\main\java\com\demo\regra\patterns\facade\GameEngineFacade.java
+C:\Users\Cpu\Downloads\BlackjackFinalProject (4)\BlackjackFinalProject\regras-microservice\src\main\java\com\demo\regra\patterns\proxy\CardServiceProxy.java
+C:\Users\Cpu\Downloads\BlackjackFinalProject (4)\BlackjackFinalProject\regras-microservice\src\main\java\com\demo\regra\patterns\singleton\GameEngine.java
+C:\Users\Cpu\Downloads\BlackjackFinalProject (4)\BlackjackFinalProject\regras-microservice\src\main\java\com\demo\regra\patterns\strategy\HouseScoreStrategy.java
+C:\Users\Cpu\Downloads\BlackjackFinalProject (4)\BlackjackFinalProject\regras-microservice\src\main\java\com\demo\regra\patterns\strategy\ScoreStrategy.java
+C:\Users\Cpu\Downloads\BlackjackFinalProject (4)\BlackjackFinalProject\regras-microservice\src\main\java\com\demo\regra\RegrasApplication.java

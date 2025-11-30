@@ -1,0 +1,11 @@
+com\demo\regra\patterns\adapter\CardServiceAdapter.class
+com\demo\regra\RegrasApplication.class
+com\cardservice\model\Card.class
+com\demo\regra\controller\RegrasController.class
+com\demo\regra\patterns\strategy\ScoreStrategy.class
+com\demo\regra\patterns\adapter\HouseServiceAdapter.class
+com\demo\regra\patterns\proxy\CardServiceProxy.class
+com\demo\regra\patterns\singleton\GameEngine.class
+com\demo\regra\patterns\strategy\HouseScoreStrategy.class
+com\demo\regra\patterns\facade\GameEngineFacade.class
+com\demo\regra\patterns\adapter\PlayerServiceAdapter.class

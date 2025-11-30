@@ -1,0 +1,5 @@
+aop\CorrelationIdFilter.class
+aop\SecurityUtils.class
+aop\Auditable.class
+aop\AuditAspect.class
+aop\LoggingAspect.class
